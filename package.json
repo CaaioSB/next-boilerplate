@@ -16,13 +16,13 @@
   },
   "devDependencies": {
     "commitizen": "^4.2.5",
-    "cz-conventional-changelog-emoji": "^0.1.0",
     "eslint": "8.23.0",
-    "eslint-config-next": "12.2.5"
+    "eslint-config-next": "12.2.5",
+    "git-cz": "^4.9.0"
   },
   "config": {
     "commitizen": {
-      "path": "cz-conventional-changelog-emoji"
+      "path": "git-cz"
     }
   }
 }
